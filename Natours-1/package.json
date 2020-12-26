@@ -1,0 +1,18 @@
+{
+  "name": "natours-1",
+  "version": "1.0.0",
+  "description": "Website built on Natour",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "nature",
+    "css"
+  ],
+  "author": "dineshdsv3@gmail.com (Satya Venkata Dinesh Danda)",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
